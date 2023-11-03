@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height : 100vh;
+    align-items: center;
+}
+
+.Fish{
+    display : flex;
+  
+}
+
+.boxes{
+    width : 350px;
+    height : 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(232, 225, 225);
+    border-radius: 3%;
+    color: black;
+    margin-left: 70px;
+    padding : 30px;
+    cursor: pointer;
+}
+
+p,h1{
+    font-weight: bold;
+}
+
+img{
+    width: 70%;
+    height : 70%;
+    max-width: 100%;
+    display: flex;
+    margin : auto auto;
+    margin-bottom: 20px;
+  
+}
+
+   
